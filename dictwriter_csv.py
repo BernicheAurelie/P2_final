@@ -12,3 +12,5 @@ def write_csv(book): #book peut s'appeler toto mais toto doit être un dict
              writer.writeheader() 
         writer.writerow(book) # sinon on ecrit les lignes
 
+
+

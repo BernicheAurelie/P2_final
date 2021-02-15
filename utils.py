@@ -7,6 +7,6 @@ def request(url):
 	soup = BeautifulSoup(response.content,"lxml")
 	return soup
 
-def content(url):
-	response = requests.get(url.content)
-	return response
+def get_content(url):
+	img = requests.get(url).content
+	return img

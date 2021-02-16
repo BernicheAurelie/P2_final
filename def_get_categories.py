@@ -12,4 +12,3 @@ def get_categories (bookstoscrap):
     categories_url = links_category[3:53]
     return categories_url
     
-# bookstoscrap = 'http://books.toscrape.com/catalogue/category/books_1/index.html'

@@ -1,5 +1,6 @@
 import csv
 from pathlib import Path
+
 DATA_DIR = Path(".")/"Data" #on crée une variable fixe pour etre dans le dossier parent
 def write_csv(book): #book peut s'appeler toto mais toto doit être un dict
     path = DATA_DIR/book["category"] #le chemin va etre notre dossier parents DATA_DIR

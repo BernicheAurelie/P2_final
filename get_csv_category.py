@@ -1,7 +1,6 @@
-import dictwriter_csv
 import scraping
+import dictwriter_csv
 import get_image
-
 
 def get_csv_category(links):
     for link in links:

@@ -1,8 +1,6 @@
-import utils
-import requests
 from bs4 import BeautifulSoup 
 
-
+import utils
 
 def get_upc(soup):
     upc = soup.find('td').text

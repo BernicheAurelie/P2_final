@@ -1,6 +1,10 @@
 # P2_final
 
-[![forthebadge](https://forthebadge.com/images/badges/contains-scraping-code.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/approved-by-aurelie-berniche.svg)](http://forthebadge.com)  [![forthebadge](https://forthebadge.com/images/badges/for-openclassrooms.svg)](http://forthebadge.com)
+<<<<<<< HEAD
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  (https://img.shields.io/static/v1?label=APPROUVED_BY&message=AURELIE_BERNICHE&color=BLUEVIOLET)
+=======
+[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  (https://img.shields.io/static/v1?label=APPROUVED BY&message=AURELIE BERNICHE&color=<BLUEVIOLET>)
+>>>>>>> 80069792c374803ca7ece66e0af207b84b5fd8c7
 
 Ce programme permet de scraper les différents articles du site **Books to Scrape** afin d'en extraire plusieurs informations au moment de son exécution.
 
@@ -17,7 +21,7 @@ Ce code est dévéloppé en langage Python. Il a pour but initial d'automatiser 
 ### Installation
 
 Dans un premier temps, vous devez créer un dossier pour ce programme:
-Executez la commande ''mkdir projet2'' dans le terminal.
+Exécutez la commande ''mkdir projet2'' dans le terminal.
 Une fois dans ce nouveau dossier, il faut executer la commande:
 ''git init projet2'' pour créé un dépôt local.
 Vous devez ensuite récupérer le repository GitHub

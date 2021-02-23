@@ -1,10 +1,8 @@
 # P2_final
 
-<<<<<<< HEAD
+
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  (https://img.shields.io/static/v1?label=APPROUVED_BY&message=AURELIE_BERNICHE&color=BLUEVIOLET)
-=======
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  (https://img.shields.io/static/v1?label=APPROUVED BY&message=AURELIE BERNICHE&color=<BLUEVIOLET>)
->>>>>>> 80069792c374803ca7ece66e0af207b84b5fd8c7
+
 
 Ce programme permet de scraper les différents articles du site **Books to Scrape** afin d'en extraire plusieurs informations au moment de son exécution.
 

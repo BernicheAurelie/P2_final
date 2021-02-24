@@ -1,7 +1,8 @@
 # P2_final
 
 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](http://forthebadge.com)  (https://img.shields.io/static/v1?label=APPROUVED_BY&message=AURELIE_BERNICHE&color=BLUEVIOLET)
+[![Generic badge](https://img.shields.io/badge/made_with-PYTHON-blueviolet.svg)](https://shields.io/)   
+[![Generic badge](https://img.shields.io/badge/approved_by-aurelie_berniche-blueviolet.svg)](https://shields.io/)
 
 
 Ce programme permet de scraper les différents articles du site **Books to Scrape** afin d'en extraire plusieurs informations au moment de son exécution.
@@ -26,14 +27,14 @@ Vous devez ensuite récupérer le repository GitHub
 Pour se faire, exécutez ''git clone https://github.com/BernicheAurelie/P2_final.git ''
 Vous devez également créer l'environnement virtuel pour ce projet en exécutant la commande suivante:
 ''Python -m venv env''
-Cet environnement necessite d'être activé via:
+Cet environnement nécessite d'être activé via:
 sous Windows: ''source env/scripts/activate''
 sous Mac/Linux: source env/bin/activate
 Avec la commande ''pip install -r'', vous pourrez récupérer les modules nécessaires à l'application du code, contenus dans le fichier **requirements.txt**.
 
 ## Démarrage
 
-Ouvrez le dossier précedemment créé **projet2**
+Ouvrez le dossier précédemment créé **projet2**
 puis le fichier **main.py**
 exécutez alors le programme dans **main.py**
 Celui-ci va alors vous permettre de récupérer les données selectionnées du site.

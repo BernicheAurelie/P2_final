@@ -24,11 +24,12 @@ Dans un premier temps, vous devez créer un dossier pour ce programme afin de t�
 1) ```mkdir projet2```: Créer un dossier projet2 
 2) ```cd projet2```: Se placer dans ce dossier
 3) ```git clone https://github.com/BernicheAurelie/P2_final.git```: Cloner le repository contenant l'application  
-4) ```Python -m venv env```  : Créer l'environnement virtuel
-5) Cet environnement nécessite d'être activé via:  
+4) ```cd P2_final```: Se placer dans le dépôt cloné
+5) ```Python -m venv env```  : Créer l'environnement virtuel
+6) Cet environnement nécessite d'être activé via:  
 sous Windows: ```source env/scripts/activate```  
 sous Mac/Linux: ```source env/bin/activate```  
-6)```pip install -r requirements.txt```: Récupérer les modules nécessaires à l'application du code, contenus dans le fichier **requirements.txt**.  
+7)```pip install -r requirements.txt```: Récupérer les modules nécessaires à l'application du code, contenus dans le fichier **requirements.txt**.  
 
 ## Démarrage
 
